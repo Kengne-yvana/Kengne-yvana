@@ -1,4 +1,8 @@
-# <img src="https://readme-typing-svg.herokuapp.com" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com" alt="# Kengne Tenesso Yvana 👋
+
+Backend Developer | Engineering Background
+Self-taught Java developer focused on Microservices and REST APIs. Currently onboarding as a volunteer with the Mifos Initiative (Apache Fineract).
+" />
 
 ### Technical Stack
 [![My Skills](https://skillicons.dev)](https://skillicons.dev)
