@@ -1,0 +1,15 @@
+name: Update Merged PRs
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/github-merged-pull-requests@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Kengne-yvana
