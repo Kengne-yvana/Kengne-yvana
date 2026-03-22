@@ -1,7 +1,9 @@
-# <img src="https://readme-typing-svg.herokuapp.com" alt="Hi i am Kengne Tenesso Yvana " />
+# Hi, I'm Kengne Tenesso Yvana 👋
 
 ### Backend Developer | Engineering Background
 Self-taught Java developer focused on Microservices and REST APIs. Currently onboarding as a volunteer with the Mifos Initiative (Apache Fineract).
+
+--- 
 
 ### Technical Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,maven,gradle,vscode,idea,postman)](https://skillicons.dev)
@@ -14,16 +16,10 @@ Self-taught Java developer focused on Microservices and REST APIs. Currently onb
 <!-- END_SECTION:merged-pull-requests -->
 
 **Store API** | E-commerce backend with Spring Security and Hibernate
+
 **School (Attendance API)** | Role-based automated tracking system
 
 ---
 
-
 ### Connect with me
-[Kengne Tenesso Yvana](https://www.linkedin.com) | yvanakengne@gmail.com
-
----
-
-### My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
+[My LinkedIn](https://www.linkedin.com) | yvanakengne@gmail.com
