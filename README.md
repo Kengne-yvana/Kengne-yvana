@@ -4,7 +4,7 @@
 Self-taught Java developer focused on Microservices and REST APIs. Currently onboarding as a volunteer with the Mifos Initiative (Apache Fineract).
 
 ### Technical Stack
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,maven,gradle,vscode,idea,postman)](https://skillicons.dev)
 
 ---
 
