@@ -12,8 +12,8 @@ Self-taught Java developer focused on Microservices and REST APIs. Currently onb
 
 ### Projects
 **Mifos Initiative** | Contributing to Java/Spring Boot financial services modules
-<!-- START_SECTION:merged-pull-requests -->
-<!-- END_SECTION:merged-pull-requests -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 **Store API** | E-commerce backend with Spring Security and Hibernate
 
