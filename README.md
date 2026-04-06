@@ -12,7 +12,7 @@ Self-taught Java developer focused on Microservices and REST APIs. Currently onb
 
 ### Projects
 **Mifos Initiative** | Contributing to Java/Spring Boot financial services modules
-![Mifos Contributions](https://metrics.lecoq.io)
+//![Mifos Contributions](https://metrics.lecoq.io)
 
 **Store API** | E-commerce backend with Spring Security and Hibernate
 
